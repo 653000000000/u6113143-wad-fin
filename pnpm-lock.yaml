@@ -32,6 +32,9 @@ importers:
       next:
         specifier: 14.2.7
         version: 14.2.7(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      postcss:
+        specifier: ^8
+        version: 8.4.41
       react:
         specifier: ^18
         version: 18.3.1
@@ -44,6 +47,9 @@ importers:
       styled-components:
         specifier: ^6.1.13
         version: 6.1.13(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      tailwindcss:
+        specifier: ^3.4.1
+        version: 3.4.10
     devDependencies:
       eslint:
         specifier: ^8
@@ -51,12 +57,6 @@ importers:
       eslint-config-next:
         specifier: 14.2.7
         version: 14.2.7(eslint@8.57.0)(typescript@5.5.4)
-      postcss:
-        specifier: ^8
-        version: 8.4.41
-      tailwindcss:
-        specifier: ^3.4.1
-        version: 3.4.10
 
 packages:
 
